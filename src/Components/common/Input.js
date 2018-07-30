@@ -1,6 +1,8 @@
 import React from 'react';
 import {TextInput, View, Text } from 'react-native';
 
+//resuable component to get text input from the user
+//contains a label for the input field, and the input field itself
 const Input = (props) => {
   const {labelStyle, inputStyle, containerStyle} = styles;
   return (

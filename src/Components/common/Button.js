@@ -25,7 +25,7 @@ const styles = {
     paddingBottom: 10
   },
   buttonStyle: {
-    flex: 1, //expand to fill max amount of content
+    //flex: 1, //expand to fill max amount of content
     alignSelf: 'stretch',
     backgroundColor: '#fff',
 
